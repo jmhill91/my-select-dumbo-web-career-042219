@@ -5,4 +5,5 @@ def my_select(collection)
  newCollect<< collection.even?
  i=i+1
  end
+ newCollect
 end
